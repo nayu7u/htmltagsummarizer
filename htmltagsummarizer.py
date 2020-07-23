@@ -45,6 +45,7 @@ for elem_name, elem_url in elems_d.items():
         detail = []
 
     elems_desc_d[elem_name] = descrp + detail
+    print(elems_desc_d[elem_name]) # debug
 
-with open("./data.json", "w") as f:
-    json.dump(elems_desc_d, f, indent=4)
+with open("./data.json", "w", encoding='utf-8') as f:
+    json.dump(elems_desc_d, f, indent=4, ensure_ascii=False)
