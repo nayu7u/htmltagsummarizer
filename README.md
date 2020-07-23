@@ -1,9 +1,14 @@
 # HTML Tag Summarizer
 - HTMLタグの要約作成
+- お遊び
 ## env
 - pyenv
 - venv
   - pip install -r requirements.txt
+## procedure 
+- python htmltagsummarizer.py
+- python segmentation.py
+- python summarizer.py
 ## result
 - 微妙
 ```
