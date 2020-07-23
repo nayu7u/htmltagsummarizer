@@ -19,7 +19,7 @@ for li in li_elms:
 
 elems_desc_d = {}
 for elem_name, elem_url in elems_d.items():
-    sleep(1)
+    sleep(0.5)
 
     print(elem_url)
     res = request.urlopen(elem_url)
