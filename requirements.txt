@@ -16,7 +16,7 @@ ginza==3.1.2
 gnureadline==8.0.0
 greenlet==0.4.16
 idna==2.9
-ipython==7.15.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ja-ginza==3.1.0
 ja-ginza-dict==3.1.0
