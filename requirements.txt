@@ -22,7 +22,7 @@ ja-ginza==3.1.0
 ja-ginza-dict==3.1.0
 jedi==0.17.1
 joblib==0.16.0
-lxml==4.5.2
+lxml==4.9.1
 msgpack==1.0.0
 murmurhash==1.0.2
 neovim==0.3.1
